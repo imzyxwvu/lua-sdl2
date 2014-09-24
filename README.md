@@ -44,3 +44,8 @@ SDL.RenderCopy(Renderer, Texture, 0, 0) -- If we don't want to scale or clip, on
 SDL.RenderPresent(Renderer)
 SDL.Delay(5000)
 ```
+
+If You Want to Contribute
+========
+
+Commiting new API exports is just enough. If you found bugs, please report them as issues.
