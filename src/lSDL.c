@@ -93,7 +93,6 @@ static SDL_Color luaZ_checkSDLcolor(lua_State *L, int idx)
 
 #include "lSDL_renderer.c"
 #include "lSDL_window.c"
-#include "lSDL_texture.c"
 #include "lSDL_surface.c"
 #include "lSDL_ttf.c"
 
